@@ -42,7 +42,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![travel log][product-screenshot]](http://www.giphy.com/gifs/3JRVZ2UQxdNTOmjhri)
 
 Following [Scrimba's React](https://scrimba.com/learn/learnreact) by [Bob Ziroll](https://twitter.com/bobziroll)--which is *amazing* btw--this was an independent project to complete at the end of the second module. It's based off this [Figma file](https://www.figma.com/file/unLrd7TTje9EMKAH629ljY/Travel-Journal-(Copy)?node-id=0%3A1) provided in the course 
 
