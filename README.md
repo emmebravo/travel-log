@@ -9,8 +9,6 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -37,36 +35,31 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
-[travel log](http://www.giphy.com/gifs/3JRVZ2UQxdNTOmjhri)
+![travel log](travel-log.gif)
 
-Following [Scrimba's React](https://scrimba.com/learn/learnreact) by [Bob Ziroll](https://twitter.com/bobziroll)--which is *amazing* btw--this was an independent project to complete at the end of the second module. It's based off this [Figma file](https://www.figma.com/file/unLrd7TTje9EMKAH629ljY/Travel-Journal-(Copy)?node-id=0%3A1) provided in the course 
-
+Following [Scrimba's React](https://scrimba.com/learn/learnreact) by [Bob Ziroll](https://twitter.com/bobziroll)--which is _amazing_ btw--this was an independent project to complete at the end of the second module. It's based off this [Figma file](<https://www.figma.com/file/unLrd7TTje9EMKAH629ljY/Travel-Journal-(Copy)?node-id=0%3A1>) provided in the course
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 ### Built With
 
-* [React.js](https://reactjs.org/)
-* [Phosphor Icons](https://github.com/phosphor-icons/phosphor-react)
-* [Unsplash Images](https://unsplash.com/)
-
+- [React.js](https://reactjs.org/)
+- [Phosphor Icons](https://github.com/phosphor-icons/phosphor-react)
+- [Unsplash Images](https://unsplash.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- GETTING STARTED -->
+
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
 
-<!-- 
+<!--
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
@@ -87,20 +80,15 @@ This is an example of how to list things you need to use the software and how to
    ```
 3. Website is static and doesn't pull from an API. Update `data.js` accordingly.
 
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- USAGE EXAMPLES -->
+
 ## Usage
 
 Used to showcase more the reusability of components. Anything can be used to replace the current information: favorite recipes, tv shows/movies/plays, etc. The possibilities are endless.
 
-
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- ROADMAP -->
 <!-- ## Roadmap
@@ -113,8 +101,6 @@ Used to showcase more the reusability of components. Anything can be used to rep
 See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>  -->
-
-
 
 <!-- CONTRIBUTING -->
 <!-- ## Contributing
@@ -132,7 +118,6 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#top">back to top</a>)</p> -->
 
-
 <!-- LICENSE -->
 <!-- ## License
 
@@ -141,9 +126,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <p align="right">(<a href="#top">back to top</a>)</p>
  -->
 
-
-
 <!-- CONTACT -->
+
 ## Contact
 
 Emme Bravo - [@emmebravo](https://twitter.com/emmebravo) - mbcodes@protonmail.com
@@ -152,20 +136,16 @@ Project Link: [https://github.com/emmebravo/travel-log](https://github.com/emmeb
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- ACKNOWLEDGMENTS -->
+
 ## Acknowledgments
 
-* [Scrimba](https://scrimba.com/)
-* [Bob Ziroll](http://bobziroll.com/)
-* [Jaime Salgado](https://github.com/Salgado3)--my coding buddy
-* [README Template](https://github.com/emmebravo/Best-README-Template)
-
+- [Scrimba](https://scrimba.com/)
+- [Bob Ziroll](http://bobziroll.com/)
+- [Jaime Salgado](https://github.com/Salgado3)--my coding buddy
+- [README Template](https://github.com/emmebravo/Best-README-Template)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
