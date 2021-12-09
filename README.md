@@ -160,6 +160,7 @@ Project Link: [https://github.com/emmebravo/travel-log](https://github.com/emmeb
 * [Scrimba](https://scrimba.com/)
 * [Bob Ziroll](http://bobziroll.com/)
 * [Jaime Salgado](https://github.com/Salgado3)--my coding buddy
+* [README Template](https://github.com/emmebravo/Best-README-Template)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
